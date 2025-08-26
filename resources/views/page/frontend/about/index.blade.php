@@ -6,11 +6,11 @@
     <!-- Page Title -->
     <div class="page-title">
       <div class="container d-lg-flex justify-content-between align-items-center">
-        <h1 class="mb-2 mb-lg-0">Portfolio Details</h1>
+        <h1 class="mb-2 mb-lg-0">About</h1>
         <nav class="breadcrumbs">
           <ol>
-            <li><a href="/home">Home</a></li>
-            <li class="current">Portfolio Details</li>
+            <li><a href="/about">About</a></li>
+            <li class="current">Home</li>
           </ol>
         </nav>
       </div>
@@ -66,19 +66,10 @@
           </div>
 
           <div class="col-lg-4">
-            <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
-              <h3>Project information</h3>
-              <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
-              </ul>
-            </div>
             <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-              <h2>Exercitationem repudiandae officiis neque suscipit</h2>
+              <h2>About Has</h2>
               <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, non. Explicabo esse corporis, harum nesciunt dolor quis error ipsam quo ab quia voluptates veritatis minima rem, nihil similique voluptate doloremque!
               </p>
             </div>
           </div>
@@ -87,7 +78,8 @@
 
       </div>
 
-    </section><!-- /Portfolio Details Section -->
+    </section>
+    <!-- /Portfolio Details Section -->
 
   </main>
 </body>
